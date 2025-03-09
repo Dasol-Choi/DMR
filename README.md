@@ -2,7 +2,7 @@
 
 <!--[![arXiv](https://img.shields.io/badge/arXiv-2307.00000-b31b1b.svg)](https://vuno.co/)-->
 
-* This repository provides official PyTorch implementations for <b>DMR</b>.
+* This repository provides official PyTorch implementations for <b>DMR</b>. [paper](https://openaccess.thecvf.com/content/CVPR2024W/VAND/html/Choi_DMR_Disentangling_Marginal_Representations_for_Out-of-Distribution_Detection_CVPRW_2024_paper.html)
 * This work has been accepted to the **CVPR 2024** workshop on [VAND 2.0: Visual Anomaly and Novelty Detection (VAND)](https://sites.google.com/view/vand-2-0-cvpr-2024/home).
 
 <!--<p align="center"><img src="/sources/method_flow.png" width=90%/></p>-->
